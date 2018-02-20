@@ -1,1 +1,1 @@
-I'm practicing git/github with a text file.
+I'm practicing git/github with a text file. Adding more text for my branch.
